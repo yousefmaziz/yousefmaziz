@@ -1,10 +1,13 @@
 <div align="center">
 
-# Hi, I'm Yousef Mohamed
+# Hi, I'm Yousef Mohamed 👋
 
-### Junior Full Stack Developer | MERN Stack | TypeScript
+### Junior Full Stack Developer | MERN Stack
 
-I build responsive web applications and reliable backend services with a focus on clean code, security, and performance.
+I build responsive web applications and reliable backend services, with a focus on clean code, security, data consistency, and performance.
+
+[![GitHub](https://img.shields.io/badge/GitHub-yousefmaziz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yousefmaziz)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousefmabdelaziz04@gmail.com)
 
 </div>
 
@@ -12,81 +15,131 @@ I build responsive web applications and reliable backend services with a focus o
 
 ## 👨‍💻 About Me
 
-I'm a **Junior Full Stack Developer** with hands-on experience building MERN stack applications using **React.js, TypeScript, Node.js, Express.js, and MongoDB**.
+I'm a **Junior Full Stack Developer** experienced in building and deploying MERN stack applications using **React.js, TypeScript, Node.js, Express.js, and MongoDB**.
 
-- 🔧 Build **RESTful APIs** and responsive, user-friendly interfaces.
-- 🔐 Implement **JWT authentication**, role-based authorization, and backend validation.
-- 🗃️ Work with **MongoDB/Mongoose transactions** and concurrency-aware workflows.
-- ⚡ Explore **Redis caching**, rate limiting, and performance optimization.
-- 🧪 Improve application quality through testing and maintainable architecture.
-- 📚 Continuously learning more about scalable backend systems and modern web development.
+- 💻 Develop responsive interfaces and full-stack applications with modern React tooling.
+- 🔧 Design and build **RESTful APIs**, following maintainable backend architecture.
+- 🔐 Implement **JWT authentication**, **role-based access control (RBAC)**, and **Zod validation**.
+- 🗃️ Use **MongoDB transactions**, atomic updates, and concurrency control to protect data consistency.
+- ⚡ Improve API performance using **Redis caching**, cache invalidation, and rate limiting.
+- 🚀 Deploy applications and APIs using **Vercel**, **MongoDB Atlas**, and **Upstash Redis**.
+- 📚 Keep learning and improving my software engineering skills.
 
 ## 🛠️ Tech Stack
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-**Backend & Database**
+**Backend & APIs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=flat-square)
 
-**Tools & Workflow**
+**Database & Caching**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=flat-square&logo=upstash&logoColor=black)
+
+**Tools & Deployment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ## 🚀 Featured Projects
 
-### ⛵ Yacht Booking System
+### 🛒 E-Commerce MERN Stack Application | Full Stack
 
-A full-stack booking application built with **Node.js, Express.js, TypeScript, MongoDB/Mongoose, and React**.
+A deployed full-stack e-commerce application built with **React, TypeScript, Node.js, Express, MongoDB, Material UI, Zod, and JWT**.
 
-- Booking workflows with backend validation.
-- Authentication and authorization for protected operations.
-- Database transaction and concurrency-control patterns for consistency.
-- Performance and infrastructure topics including rate limiting, Redis, and load testing.
+- Built product browsing, shopping cart, checkout, and order management features.
+- Developed REST APIs for product and inventory management.
+- Used **MongoDB transactions and atomic stock updates** for consistent checkout during concurrent orders.
+- Implemented JWT authentication, protected admin CRUD operations, and role-based authorization.
+- Added customer and admin **email notifications** using Nodemailer after successful orders.
 
-**Repository:** [https://github.com/yousefmaziz/Booking](https://github.com/yousefmaziz/Booking)
+**Repository:** [E-Commerce MERN Project](https://github.com/yousefmaziz/E_commerce_MernProject)
+**Live Demo:** [Live Demo](https://e-commerce-mern-project-teal.vercel.app/)
 
-### 🛒 E-Commerce Application
+### ⛵ Yacht Booking System | Backend (In Progress)
 
-A MERN-based application with user authentication, product management, and shopping cart functionality.
+A booking API built with **Node.js, Express.js, TypeScript, MongoDB/Mongoose, Redis, Docker, JWT, and Zod**.
 
-- User and admin roles with protected routes.
-- Product and user management features.
-- Cart operations and stock-aware order processing.
-- REST API integration between React and Express.
+- Developed yacht management, authentication, and booking APIs with role-based access control.
+- Implemented date-overlap validation, transactions, and concurrency control to prevent double bookings.
+- Used **Redis caching**, cache invalidation, graceful degradation, and rate limiting.
+- Deployed the API with **Vercel, MongoDB Atlas, and Upstash Redis**.
+- Documented the endpoints with **Swagger UI**.
 
-**Repository:** [https://github.com/yousefmaziz/E_commerce_MernProject](https://github.com/yousefmaziz/E_commerce_MernProject)
+**Repository:** [Yacht Booking System](https://github.com/yousefmaziz/Booking)
+**Live API Demo:** [Live API Demo](https://bookingyacht.vercel.app/api-docs/)
 
-> Update each project description to reflect only the features currently available in its public repository, and add live demo links where applicable.
+### 🎬 Movie Explorer Web Application | Full Stack
 
-## 🎯 Currently Learning
+A movie exploration platform built with **React, TypeScript, Node.js, Express, MongoDB/Mongoose, and Tailwind CSS**.
 
-- Automated testing and backend reliability
-- Redis caching and API performance
-- Docker, Nginx, and load balancing
-- System design and scalable application architecture
+- Built a responsive interface with dynamic routing.
+- Developed APIs supporting movie browsing, searching, and filtering.
+- Displayed movie details including ratings, trailers, cast profiles, and descriptions.
+- Implemented frontend state management and responsive search/filtering interactions.
+
+**Repository:** [Movie Explorer](https://github.com/yousefmaziz/Movies)
+**Live Demo:** [Live Demo](https://movies-72df.vercel.app/)
+
+### 🛍️ E-Commerce Website | Frontend
+
+A responsive online store built with **React, JavaScript, Tailwind CSS, and Context API**.
+
+- Implemented product listing, filtering, and cart functionality.
+- Integrated an external REST API to retrieve product data.
+- Designed a mobile-friendly interface.
+
+**Repository:** [E-Commerce Website](https://github.com/yousefmaziz/e-commerce)
+**Live Demo:** [Live Demo](https://yousefmaziz.github.io/e-commerce/)
+
+## 🎓 Education & Certification
+
+- **B.Sc. in Computer Science**, Arab Open University (2021–2025) — GPA: **3.24/4.00 (Very Good)**.
+- **Front-End Web Development Diploma**, Route Academy — December 2024.
+
+## 🎯 Engineering Interests
+
+I'm especially interested in **backend reliability**, **concurrency-safe workflows**, **API security**, **caching**, **automated testing**, and **scalable application design**.
 
 ## 📫 Let's Connect
 
-I'm interested in **Junior Full Stack Developer** and **Junior Backend Developer** opportunities, collaboration, and learning from other developers.
+I'm open to **Junior Full Stack Developer** and **Junior Backend Developer** opportunities, as well as collaboration on interesting projects.
 
+- **GitHub:** [github.com/yousefmaziz](https://github.com/yousefmaziz)
 - **Email:** [yousefmabdelaziz04@gmail.com](mailto:yousefmabdelaziz04@gmail.com)
-
+- **Location:** Cairo, Egypt
 
 ---
 
